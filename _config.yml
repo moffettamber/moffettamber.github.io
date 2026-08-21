@@ -1,7 +1,5 @@
-# Theme
 minimal_mistakes_skin: "default"
 
-# Site
 locale: "en-US"
 title: "Amber Moffett"
 title_separator: "-"
@@ -11,9 +9,6 @@ description: "Researcher at Monash University studying U.S. autocratization and 
 url: "https://moffettamber.github.io"
 baseurl: ""
 repository: "moffettamber/moffettamber.github.io"
-teaser:
-logo:
-masthead_title: " "
 
 breadcrumbs: false
 words_per_minute: 200
@@ -24,7 +19,6 @@ search_full_content: false
 atom_feed:
   hide: true
 
-# Author sidebar
 author:
   name: "Amber Moffett"
   avatar: "/assets/images/portrait.png"
@@ -50,10 +44,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/amber-moffett/"
 
-# Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -62,10 +53,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-include:
-  - _pages
-
-# Defaults — every page gets the sidebar automatically
 defaults:
   - scope:
       path: ""
