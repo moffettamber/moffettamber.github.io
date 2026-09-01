@@ -8,7 +8,7 @@ author_profile: true
 
 [Download my resume (PDF)](/assets/Amber-Moffett-Resume.pdf){: .btn .btn--primary}
 
-I am an experienced development professional with nearly ten years experience in conflict-affected and complex environments. I offer research, monitoring and evaluation, and technical advisory services for development programs, with particular depth in governance, gender, and resilience programming in complex and conflict-affected environments.
+I am an experienced development professional with nearly ten years experience in conflict-affected and complex environments. I offer research, project management, monitoring and evaluation, and technical advisory services for development programs, with particular depth in governance, gender, and resilience programming in complex and conflict-affected environments.
 
 ## Practice
 
@@ -17,7 +17,8 @@ My consulting work draws on a nearly decade leading and conducting applied resea
 ## Services
 
 - Governance and rights research and analysis
-- Programme design review and monitoring framework development, including for gender analysis and GEDSI integration
+- Project management for democracy, governance, rights, and gender-focused projects
+- Program design review and monitoring framework development, including for gender analysis and GEDSI integration
 - Qualitative and mixed-methods research — key informant interviews, focus groups, document analysis
 - Evidence reviews and analytical briefs
 - Third-party monitoring, program audits, and process reviews
