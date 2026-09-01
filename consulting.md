@@ -5,23 +5,43 @@ title: "Consulting"
 author_profile: true
 ---
 
-I work with development finance institutions and programme teams on gender integration in disaster risk finance and insurance (DRFI), currently as Senior Gender Specialist with the World Bank's Global Shield Financing Facility.
 
 [Download my resume (PDF)](/assets/Amber-Moffett-Resume.pdf){: .btn .btn--primary}
 
+I am an experienced development professional with nearly ten years experience in conflict-affected and complex environments. I offer research, monitoring and evaluation, and technical advisory services for development programs, with particular depth in governance, gender, and resilience programming in complex and conflict-affected environments.
+
 ## Practice
 
-I help country teams ensure a gender lens is integrated into DRFI project design and implementation, examining the nexus between gender, climate risk, and disaster risk financing. This includes reviewing GSFF-funded project proposals, advising Task Teams on practical entry points to strengthen gender integration, and contributing to the global evidence base on the FCV–gender–climate nexus through analytical notes and donor-facing briefs.
+My consulting work draws on a nearly decade leading and conducting applied research for USAID, the World Bank, and UNICEF, primarily in Myanmar and East Africa. This spans rights and governance analysis, gender integration and GEDSI advisory, food security and resilience research, and third-party monitoring and program audits — including director-level oversight of a $60 million USAID research portfolio in a conflict-affected region.
 
 ## Services
 
-- Gender analysis and GEDSI strategy for DRFI programmes and facilities
-- Programme design review and monitoring framework development
-- Evidence reviews and analytical briefs on gender, fragility, and climate risk
+- Governance and rights research and analysis
+- Programme design review and monitoring framework development, including for gender analysis and GEDSI integration
+- Qualitative and mixed-methods research — key informant interviews, focus groups, document analysis
+- Evidence reviews and analytical briefs
+- Third-party monitoring, program audits, and process reviews
+- Food security and resilience research
+- Technical writing: reports, literature reviews, terms of reference
 - Donor briefings and knowledge management products
+
+## Selected work
+
+**USAID Myanmar Analytical Activity** — Project Manager, Lead Researcher
+Political economy and governance research informing USAID/Burma's programmatic decision-making, including analysis of democratic resistance dynamics and national identity.
+
+**USAID Food Security and Third-Party Monitoring** — Research Analyst, Gender Specialist
+Gender-integrated research and third-party monitoring supporting food security programming.
+
+**UNICEF Building Self Reliance Programme** — Qualitative Researcher
+Qualitative research supporting a resilience and self-reliance program.
+
+**USAID FEWS NET Technology Support Contract** — Researcher, Project Administrative Assistant
+Research, reporting, and contract compliance across the USAID Famine Early Warning Systems Network technical support contract, including a NICRA audit and project closeout.
 
 ## Enquiries
 
 Available for short-term assignments and framework panels.
 
 [Get in touch](mailto:email@example.com){: .btn .btn--primary}
+
