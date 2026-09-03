@@ -5,7 +5,7 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /assets/files/Amber-Moffett-CV.pdf
   - title: "Consulting"
     url: /consulting/
+  - title: "CV"
+    url: /assets/files/Amber-Moffett-CV.pdf
