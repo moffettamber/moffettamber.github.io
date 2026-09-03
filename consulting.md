@@ -11,7 +11,7 @@ I am an experienced development professional with nearly ten years experience in
 
 
 
-<a href="mailto:moffett.amber@gmail.com" class="btn btn--primary">Get in touch</a>
+<a href="/assets/files/Amber-Moffett-Resume.pdf" class="btn btn--primary">Get in touch</a>
 
 ## Practice
 
