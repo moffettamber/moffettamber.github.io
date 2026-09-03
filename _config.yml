@@ -27,7 +27,7 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
-      url: "/cv/"
+      url: "/assets/files/Amber-Moffett-CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:email@example.com"
