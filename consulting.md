@@ -44,4 +44,3 @@ Research, reporting, and contract compliance across the USAID Famine Early Warni
 Available for short-term assignments and framework panels.
 
 <a href="mailto:moffett.amber@gmail.com" class="btn btn--primary">Get in touch</a>
-
