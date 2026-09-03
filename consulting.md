@@ -5,7 +5,6 @@ title: "Consulting"
 author_profile: true
 ---
 
-
 <a href="/assets/files/Amber-Moffett-Resume.pdf" class="btn btn--primary">Download my resume (PDF)</a>
 
 I am an experienced development professional with nearly ten years experience in conflict-affected and complex environments. I offer research, project management, monitoring and evaluation, and technical advisory services for development programs, with particular depth in governance, gender, and resilience programming in complex and conflict-affected environments.
