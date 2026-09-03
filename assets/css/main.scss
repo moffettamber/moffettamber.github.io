@@ -7,3 +7,15 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+.greedy-nav a[href$=".pdf"] {
+  background-color: #2E5E5B;
+  color: #ffffff !important;
+  padding: 0.4em 1em;
+  border-radius: 4px;
+  margin-left: 0.5em;
+}
+
+.greedy-nav a[href$=".pdf"]:hover {
+  background-color: #16202B;
+  color: #ffffff !important;
+}
