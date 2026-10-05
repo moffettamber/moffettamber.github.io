@@ -5,7 +5,7 @@ title: " "
 author_profile: true
 ---
 
-As a PhD researcher at Monash University, my current research lies at the intersection of hegemony, autocratization, and world order. Previously I worked in international development conducting policy-relevant analysis in politically sensitive and conflict-affected environments with a thematic focus on democracy, rights, governance, gender, and human security. Since 2015 I have led and coordinated cross-cultural research teams of 5–12 people across the United States, Southeast Asia, and East Africa, conducting mixed-method and qualitative research for donors, policymakers, and practitioners in complex and emergency contexts. 
+As a PhD researcher in international relations at Monash University, my current research lies at the intersection of hegemony, autocratization, and world order. Previously I worked in international development conducting policy-relevant analysis in politically sensitive and conflict-affected environments with a thematic focus on democracy, rights, governance, gender, and human security. Since 2015 I have led and coordinated cross-cultural research teams of 5–12 people across the United States, Southeast Asia, and East Africa, conducting mixed-method and qualitative research for donors, policymakers, and practitioners in complex and emergency contexts. 
 
 ## Current
 
