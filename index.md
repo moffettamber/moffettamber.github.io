@@ -14,3 +14,14 @@ As a PhD researcher at Monash University, my current research lies at the inters
 - Senior Gender Specialist (consultant), World Bank Global Shield Financing Facility
 
 I am open to work as a part-time or short-term independent consultant on projects focusing on any of my areas of expertise.  
+
+## International experience
+
+| Type | Places |
+|---|---|
+| **Fieldwork** | Ethiopia · Kenya · United States |
+| **Research and programming** | Myanmar · Sudan · Uganda · Senegal · regional East Africa |
+| **Lived and worked** | United States · Thailand · Switzerland |
+| **Human rights delegation** | Colombia |
+
+**Languages:** English (native) · Spanish (advanced-intermediate) · French (intermediate) · Thai (beginner)
